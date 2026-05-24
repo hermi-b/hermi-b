@@ -15,7 +15,7 @@ I specialize in designing and developing efficient AI systems and low-level auto
 
 ---
 
-### 🧪 About This Space
+### 🧪 About this Space
 
 This GitHub profile is dedicated to my **smaller passion projects and experiments** built entirely from scratch. I use this space to push my boundaries, test new ideas, and continuously expand my knowledge.
 
@@ -37,6 +37,6 @@ This GitHub profile is dedicated to my **smaller passion projects and experiment
 
 If you have any questions, want to discuss what I'm developing, or just want to talk shop, feel free to reach out! 
 
-*   💼 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL_HERE) *(Replace this with your actual URL)*
+*   💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hermela-benyam-362499252) *(Replace this with your actual URL)*
 
 
