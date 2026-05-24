@@ -37,6 +37,6 @@ This GitHub profile is dedicated to my **smaller passion projects and experiment
 
 If you have any questions, want to discuss what I'm developing, or just want to talk shop, feel free to reach out! 
 
-*   💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hermela-benyam-362499252) *(Replace this with your actual URL)*
+*   💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hermela-benyam-362499252)
 
 
