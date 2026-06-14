@@ -27,7 +27,7 @@ This GitHub profile is dedicated to my **smaller passion projects and experiment
 
 ### ☕ A Bit About Me
 
-*   🐶 Proud dog parent.
+*   🐶 Proud dog mom.
 *   🗣️ On a journey to becoming fluent in 5 languages.
 *   🫖 Firm believer that tea belongs with every single meal.
 
